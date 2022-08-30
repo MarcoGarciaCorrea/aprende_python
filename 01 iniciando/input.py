@@ -1,0 +1,1 @@
+print('Bienvenido' , input('ingrese su nombre: '))
